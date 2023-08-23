@@ -1,4 +1,4 @@
-package tasks;
+package projects;
 
 public class PrintingLetterAWithMultidimensionalArrays {
     public static void main(String[] args) {
